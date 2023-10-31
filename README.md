@@ -22,9 +22,6 @@
 ###
 
 <br />
-
-###
-
 <h2>Top Projects</h2>
 
 <br />
