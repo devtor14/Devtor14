@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="300" src="https://clipart-library.com/images_k/royalty-free-transparent-images/royalty-free-transparent-images-25.png"  />
+<img align="right" height="250" src="https://clipart-library.com/images_k/royalty-free-transparent-images/royalty-free-transparent-images-25.png"  />
 
 ###
 
