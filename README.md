@@ -48,7 +48,7 @@
 <img align="right" width="30" />
 <a href="mailto:devtor14@gmail.com"> <img align="right" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="80" alt="google logo"  /> </a>
 <img align="right" width="30" />
-<a href="./cv.pdf"> <img height="80" align="right" src="https://cdn-icons-png.flaticon.com/512/3846/3846862.png"  /> </a>
+<a href="./CV Hector Davila - ENGLISH.pdf"> <img height="80" align="right" src="https://cdn-icons-png.flaticon.com/512/3846/3846862.png"  /> </a>
 
 <p> I love everything related to space, and I always try to incorporate a bit of the subject into each of my projects. I am self-taught and constantly in a state of learning; I really enjoy acquiring new knowledge. Here, you can find my LinkedIn, email, and a view of my resume </p>
 
