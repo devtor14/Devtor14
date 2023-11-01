@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">2 years of experience in Frontend Development, specializing in the MERN Stack. My focus is on<br>creating high-quality products with an outstanding user experience, and my passion for learning is<br>unwavering.</p>
+<p align="left">2 years of experience in Frontend Development, specializing in the MERN Stack. My focus is on creating high-quality products with an outstanding user experience, and my passion for learning is unwavering.</p>
 
 ###
 
