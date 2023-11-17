@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="250" src="https://cdn.leonardo.ai/users/12002f7f-fc47-47cd-94f7-48eef4510136/generations/a0f7a49b-3e25-4886-b1e3-286a2cf1489d/Leonardo_Diffusion_XL_An_astronaut_with_a_black_suit_developin_2.jpg"  />
+<img align="right" height="250" src="https://camo.githubusercontent.com/676918cc82e468f78684460864ee185bfcafadc2201170ac140b4a822b60ead2/68747470733a2f2f636c69706172742d6c6962726172792e636f6d2f696d616765735f6b2f726f79616c74792d667265652d7472616e73706172656e742d696d616765732f726f79616c74792d667265652d7472616e73706172656e742d696d616765732d32352e706e67"  />
 
 ###
 
