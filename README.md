@@ -2,10 +2,6 @@
 
 ###
 
-<img align="right" height="250" src="https://camo.githubusercontent.com/676918cc82e468f78684460864ee185bfcafadc2201170ac140b4a822b60ead2/68747470733a2f2f636c69706172742d6c6962726172792e636f6d2f696d616765735f6b2f726f79616c74792d667265652d7472616e73706172656e742d696d616765732f726f79616c74792d667265652d7472616e73706172656e742d696d616765732d32352e706e67"  />
-
-###
-
 <p align="left">2 years of experience in Frontend Development, specializing in the MERN Stack. My focus is on creating high-quality products with an outstanding user experience, and my passion for learning is unwavering.</p>
 
 ###
